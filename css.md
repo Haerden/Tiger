@@ -1,13 +1,13 @@
 Tiger - CSS 问题汇总
 
 
-手写一个多列等高布局
-CSS margin重叠问题怎么解决
+- 手写一个多列等高布局
+- CSS margin重叠问题怎么解决
 
 ### -----
 
 - 1、清除浮动的解决方案
-- 2、了解 flex 手写一个 flex居中的布局。实现根据数字排序
+- 2、了解 flex 手写一个 flex居中的布局。
 - 3、说说你对 retina屏，pc，ipad，手机端的适配经验和方案？
 - 4、sass 了解吗？
 
@@ -35,9 +35,7 @@ CSS margin重叠问题怎么解决
 - 2、写一个带有标题，引用，正文，列表的 hmtl 结构 
 - 3、ul 和 ol 的区别，怎么去掉前面的东西（list-style：none）
 
-作者：灵活的死胖子
-链接：https://www.nowcoder.com/discuss/99056?type=0&order=0&pos=8&page=1
-来源：牛客网
+
 
 ### -----
 
