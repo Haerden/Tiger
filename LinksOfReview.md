@@ -14,14 +14,14 @@ https://www.nowcoder.com/discuss/99625?type=0&order=0&pos=11&page=1
 ## 老虎证券前端面筋 口头offer 应届 √
 http://m.nowcoder.com/discuss/95655?type=0&pos=15
 
-## 老虎证券 应届
+## 老虎证券 应届 √
 https://www.nowcoder.com/discuss/113599
 
 ## 老虎证券前端一面
 https://www.nowcoder.com/discuss/99056?type=0&order=0&pos=8&page=1
 
 
-## Tiger技术栈
+## Tiger技术栈 √
 https://www.v2ex.com/t/453784
 
 ## 延伸Git前端面试总结
