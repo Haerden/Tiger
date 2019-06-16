@@ -21,9 +21,6 @@ https://www.nowcoder.com/discuss/113599
 https://www.nowcoder.com/discuss/99056?type=0&order=0&pos=8&page=1
 
 
-## 老虎证券前端面筋 口头offer
-https://www.nowcoder.com/discuss/95655?type=0&order=0&pos=26&page=1
-
 ## Tiger技术栈
 https://www.v2ex.com/t/453784
 
