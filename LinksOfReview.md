@@ -1,5 +1,5 @@
 ## Links:
-## 2018前端面经总结-含tiger
+## 2018前端面经总结-含tiger √
 
 - https://www.jianshu.com/p/99bc56b26078?tdsourcetag=s_pctim_aiomsg
 
