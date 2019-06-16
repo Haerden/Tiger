@@ -7,7 +7,7 @@
 ## 老虎证券前端面试，从笔试到CTO再到HR √
 http://www.bslxx.com/m/view.php?aid=1874
 
-## 老虎证券前端一面 应届
+## 老虎证券前端一面 应届 √
 不知名的小菜鸡  
 https://www.nowcoder.com/discuss/99625?type=0&order=0&pos=11&page=1
 
