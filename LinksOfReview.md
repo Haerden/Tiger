@@ -11,7 +11,7 @@ http://www.bslxx.com/m/view.php?aid=1874
 不知名的小菜鸡  
 https://www.nowcoder.com/discuss/99625?type=0&order=0&pos=11&page=1
 
-## 老虎证券前端面筋 口头offer 应届
+## 老虎证券前端面筋 口头offer 应届 √
 http://m.nowcoder.com/discuss/95655?type=0&pos=15
 
 ## 老虎证券 应届
